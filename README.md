@@ -12,6 +12,6 @@ In this vue js 3 project , we learn how to set up a project. this commit is made
 
 <p align="center">
  
-  <img src="https://cdn.inflearn.com/public/courses/324114/course_cover/9b9d948b-bc1e-409f-9181-025821d1fb95/sc_vue.js.png" width="350" alt="accessibility text">
+  <img src="https://fr-images.tuto.net/tuto/thumb/648/288/164471.jpg" width="100%" alt="accessibility text">
 </p>
 
